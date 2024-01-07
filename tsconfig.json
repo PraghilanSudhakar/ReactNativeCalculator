@@ -8,5 +8,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(tabs)/_layout.js", "app/(tabs)/index.js", "app/(tabs)/about.js", "app/_layout.js", "app/+html.js", "app/[...missing].js", "app/modal.js", "components/Themed.js", "components/StyledText.js", "components/ExternalLink.js", "constants/Colors.js"  ]
 }
